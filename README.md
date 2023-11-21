@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Özgür Karagöz, a passionate Fullstack Developer from Modanisa.
+I'm Özgür Karagöz, a passionate Fullstack Developer from [Modanisa](https://www.modanisa.com).
 
 ### 📫 Connect with Me
 
