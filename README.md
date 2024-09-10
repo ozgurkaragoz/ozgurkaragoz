@@ -7,4 +7,4 @@ Bringing over ten years of extensive **fullstack development expertise**, I am s
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/karagozozgur/)
-- [Twitter](https://twitter.com/ozgurkaragoz)
+- [Twitter](https://twitter.com/ozgur_karagoz)
